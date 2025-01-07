@@ -24,4 +24,4 @@ This project is a dedicated website that highlights the complete Burger King bre
 Feel free to contribute by submitting a pull request. Please ensure your code follows the contribution guidelines outlined in `CONTRIBUTING.md`.
 
 **License**
-This project is licensed under the MIT License. See `LICENSE` for more details.
+This project is licensed under the MIT License. See `LICENSE` for [more details](https://gitlab.com/bkbreakfastmenu/bk-breakfast-menu-with-prices).
